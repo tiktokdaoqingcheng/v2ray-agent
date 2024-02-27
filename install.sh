@@ -8734,14 +8734,12 @@ singBoxVersionManageMenu() {
 menu() {
     cd "$HOME" || exit
     echoContent red "\n=============================================================="
-    echoContent green "作者：tiktokdaoqingcheng"
     echoContent green "当前版本：v3.2.11"
-    echoContent green "Github：https://github.com/tiktokdaoqingcheng/v2ray-agent"
+    echoContent green "作者：tiktokdaoqingcheng"
     echoContent green "描述：刀倾城八合一共存脚本\c"
     showInstallStatus
     checkWgetShowProgress
     echoContent red "\n=========================== 推广区============================"
-    echoContent red "                                              "
     echoContent green "助力tiktok出海：https://t.me/tiktokdqc"
     echoContent green "原生ISP 美国 日本 泰国 台湾 越南多地区"
     echoContent red "=============================================================="
